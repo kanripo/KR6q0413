@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 21:51:33.768544
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 5:36
 #+TITLE: 大休珠禪師語錄
 #+PROPERTY: CBETA_ID J27nB192
 #+PROPERTY: ID KR6q0413
@@ -10,7 +10,7 @@
 #+PROPERTY: LASTPB <pb:KR6q0413_J_010-0212b> 
 #+PROPERTY: JUAN 10
 
-普說
+* 普說
  曹溪大休珠禪師普說卷第十¶
 侍者廣熙錄¶
 瑞鹿法孫行信編次¶
